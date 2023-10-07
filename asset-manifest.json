@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-react/static/css/main.33389c1c.css",
+    "main.js": "/my-react/static/js/main.072005c9.js",
+    "static/media/menu-7.png": "/my-react/static/media/menu-7.174ff342e169846f6b2a.png",
+    "static/media/menu-8.png": "/my-react/static/media/menu-8.73d61dc406747f8725f2.png",
+    "static/media/menu-2.png": "/my-react/static/media/menu-2.3858d71d51d1d0d729df.png",
+    "static/media/home.png": "/my-react/static/media/home.6d36abe1993a67dfd427.png",
+    "static/media/menu-9.png": "/my-react/static/media/menu-9.6c04fab4a44a44b8192c.png",
+    "static/media/about.jpg": "/my-react/static/media/about.e875289a5a7639ff583a.jpg",
+    "static/media/menu-3.png": "/my-react/static/media/menu-3.e9ba6db489802b2a1a20.png",
+    "static/media/menu-4.png": "/my-react/static/media/menu-4.46dd4b1a191f007851a7.png",
+    "static/media/menu-6.png": "/my-react/static/media/menu-6.48f2f043178a97f8f48b.png",
+    "static/media/menu-5.png": "/my-react/static/media/menu-5.8180f596d8cb879ed344.png",
+    "static/media/menu-1.png": "/my-react/static/media/menu-1.bf7bbdd1079a6ff2c8f3.png",
+    "static/media/logo-janji.png": "/my-react/static/media/logo-janji.cb499362996023effda0.png",
+    "index.html": "/my-react/index.html",
+    "main.33389c1c.css.map": "/my-react/static/css/main.33389c1c.css.map",
+    "main.072005c9.js.map": "/my-react/static/js/main.072005c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33389c1c.css",
+    "static/js/main.072005c9.js"
+  ]
+}
